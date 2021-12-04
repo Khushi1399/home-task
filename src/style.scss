@@ -1,0 +1,38 @@
+$white: #fff;
+$dark-grey: #4a4a4a; /* For: Text, Right-hand sidebar background. */
+$midnight-grey: #2f3540; /* For: Left-hand sidebar and user menu background. */
+$midnight-grey-transparent: rgba(47, 53, 64, 0.8);
+$midnight-grey-hover: #1e222a; /* For: Left-hand sidebar and user menu hover. */
+$green: #4dd2b4; /* For: Buttons */
+$green-hover: #40ae95; /* For: Button hover */
+$red: #ff4f02; /* For: Allergies text, invalid form input, dangerous buttons  */
+$red-hover: #d14002; /* For: Dangerous button hover  */
+$grey1: #fafafa; /* For:  Card header backgrounds */
+$grey2: #f5f5f5; /* For: Page background, Logo background */
+$grey3: #f0f0f0; /* For: Table borders, non-action buttons */
+$grey4: #e0dfdf; /* For: Top-level card header backgrounds. Horizontal and vertical dividers. Search Icon. Disabled Buttons. Input borders. */
+$grey5: #cac8c8; /* For: Button background color on disabled state on table header actions */
+$grey6: #a5a5a5; /* For: Button disabled */
+$grey7: #9b9b9b; /* For: action menu disabled */
+$scroll-bar-grey: #9b9b9b; /* For: Scroll bars */
+$blue: #6da9d1; /* For: Input borders */
+$blue-bright: #4a90e2; /* For: buttons (eg. customise button) */
+$blue-bright-hover: #256abb;
+$blue-grey: rgb(64, 75, 94); /* For: Sidebar submenu, selected top level sidebar item */
+$blue-grey-dark: rgb(52, 62, 79); /* For: Selected Sidebar submenu item */
+$maroon: rgb(205, 56, 106);
+$maroon-hover: rgb(159, 33, 75);
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Your styles go here */
